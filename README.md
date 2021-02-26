@@ -1,0 +1,2 @@
+# Klawiatura
+klawiatura dzwiękowa
